@@ -1,9 +1,11 @@
-@media screen and (min-width: 480px) {
-    body {
-        background-color: #e58e7c;
-    }
+@media screen and (max-width: 480px) {
+    nav {width: 200px; float: left;}
 }
 
+body {
+
+	background-color: #f04f2d;
+}
 nav {
 	width: 15%;
 	margin: auto;
